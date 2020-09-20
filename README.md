@@ -1,4 +1,4 @@
-### [Hi there 👋](https://wwww.thesiddd.com)
+### [Hi there 👋](https://thesiddd.com)
 
 <!--
 **siddharthsharma94/siddharthsharma94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
